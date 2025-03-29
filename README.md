@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I’m Joshua Haun
 
-<!--
-**mo2eQKdZWZxcX0tK/mo2eQKdZWZxcX0tK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Student Developer** | Passionate about **AI, Big Data, and Full-Stack Development**  
+📚 Currently learning and exploring cutting-edge technologies.  
 
-Here are some ideas to get you started:
+### 🔧 Tech Interests  
+• 🤖 **AI/ML**: NLP, Computer Vision, LLMs  
+• 📊 **Big Data**: Hadoop, Spark, Data Pipelines  
+• 💻 **Full-Stack**: React, Node.js, Python/Django  
+• 🛠️ **Others**: DevOps, Cloud (AWS/GCP), Open-Source  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let’s Connect!  
+I’m eager to collaborate on projects and learn from the community. 
+
+⭐ **Welcome to my GitHub!** Feedback and contributions are always appreciated.  
